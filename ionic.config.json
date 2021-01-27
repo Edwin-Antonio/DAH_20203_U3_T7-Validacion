@@ -1,0 +1,7 @@
+{
+  "name": "U3_T7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
